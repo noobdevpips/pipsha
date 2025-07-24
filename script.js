@@ -9,6 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
     Women: [
       { name: "adidas X Pop Polo shirt", price: "$69.99" },
       { name: "adidas X Pop TRX Vintage", price: "$69.99" }
+      { name: "adidas lovely Vintage", price: "$69.99" }
     ],
     Men: [
       { name: "Butter Yard Pullover", price: "$120.00" },
